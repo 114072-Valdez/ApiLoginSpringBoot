@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.example.login.config.SpringDocConfig",
+      "sourceType": "com.example.login.config.SpringDocConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
